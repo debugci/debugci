@@ -1,2 +1,15 @@
 # debugci
-👨‍💻 Shell utility &amp; standalone binary to help you debug CI workflows via SSH, web terminal, or IDE
+
+👨‍💻 Helps you debug CI workflows via SSH, web terminal, or IDE
+
+## Installation
+
+```sh
+npm install -g debugci
+```
+
+## Usage
+
+```sh
+debugci
+```
